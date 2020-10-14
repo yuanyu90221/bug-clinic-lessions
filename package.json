@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yuanyu90221/bug-clinic-lessions#readme",
   "dependencies": {
-    "bunyan": "^1.8.14"
+    "bunyan": "^1.8.14",
+    "stackup": "^1.0.2"
   }
 }
