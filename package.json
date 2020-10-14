@@ -1,0 +1,23 @@
+{
+  "name": "bug-clinic-lessions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "debug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanyu90221/bug-clinic-lessions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanyu90221/bug-clinic-lessions/issues"
+  },
+  "homepage": "https://github.com/yuanyu90221/bug-clinic-lessions#readme",
+  "dependencies": {
+    "bunyan": "^1.8.14"
+  }
+}
